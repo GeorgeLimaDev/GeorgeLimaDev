@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm George ;)</h1>
 <h3 align="center">Web Developpment student. Open for internships.</h3>
 
-- 🌱 I’m currently learning **Front and Back-end, along with fundamentals of networks and general programming.**
+- 🌱 I’m currently learning **Front and Back-end, along with general programming, fundamentals of networks and data banks.**
 
 <p align="left">
 <h3 align="left">Languages and Tools:</h3>
