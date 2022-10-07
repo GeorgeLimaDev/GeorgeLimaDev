@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm George ;)</h1>
 <h3 align="center">Web Developpment student. Open for internships.</h3>
 
-- 🌱 I’m currently learning **Full stack development, along with algorithms, fundamentals of networks and data banks.**
+- 🌱 I’m currently learning **Full stack development, along with algorithms, fundamentals of networks, data banks and Linux.**
 
 <p align="center">
 <h3 align="center">Languages and Tools:</h3>
