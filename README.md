@@ -2,8 +2,8 @@
 <h3 align="center">Web Developpment student. Open for internships.</h3>
 
 # 💫 About Me:
-- 🌱I’m currently learning Full-stack web development along with the following:
-- algorithms, fundamentals of networks, data banks, Linux and UX.
+- I’m currently **learning Full-stack web development** along with the following:
+- Algorithms, Fundamentals of Networks, Data Banks, Linux and UX.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/georgelimabr) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/georgelimabr) 
