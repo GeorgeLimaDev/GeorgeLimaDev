@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋 I'm George ;)</h1>
+<h1 align="center">Hi 👋 I'm George</h1>
 <h3 align="center">Web Developpment student. Open for internships.</h3>
 
-# 💫 About me:
 - I’m currently **learning Full-stack web development** along with the following:
 - Algorithms, Fundamentals of Networks, Data Banks, Linux and UX.
 
