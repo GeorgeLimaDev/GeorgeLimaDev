@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋 I'm George Lima</h1>
-<h3 align="center">Web Developpment student | Localization Engineer Intern</h3>
+<h3 align="center">Web Developpment student && Localization Engineer Intern</h3>
 
 - I’m currently in college **learning Full-stack web development** along with the following:
-- Algorithms, Fundamentals of Networks, Data Banks, Linux and UX.
+  - Algorithms;
+  - Fundamentals of Networks;
+  - Data Banks;
+  - Linux;
+  - UX.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/georgelimabr) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/georgelimabr) 
