@@ -1,16 +1,7 @@
 <h1 align="center">Hi 👋 I'm George Lima</h1>
 <h3 align="center">Web Development student && Localization Engineer Intern</h3>
 
-- I’m currently in college **learning Full-stack web development** along with the following:
-  - Algorithms;
-  - Fundamentals of Networks;
-  - Data Banks;
-  - Linux;
-  - UX.
-
-## 🌐 Socials:
-<a href="https://linkedin.com/in/georgelimabr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="georgelimabr" height="30" width="40" /></a>
-<a href="https://instagram.com/georgelimabr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="georgelimabr" height="30" width="40" /></a>
+<h4 align="center">I’m currently in college <b>learning Full-stack web development</b></h4>
 
 # 💻 Tech Stack:
 ## Front-End:
@@ -42,4 +33,9 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeLimaDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# 🌐 Socials:
+<a href="https://linkedin.com/in/georgelimabr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="georgelimabr" height="30" width="40" /></a>
+<a href="https://instagram.com/georgelimabr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="georgelimabr" height="30" width="40" /></a>
+
+## 
 <p><i>"May the odds be ever in your favour."</i> <br>- The Hunger Games' saga.</p>
