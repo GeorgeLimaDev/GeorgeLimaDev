@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋 I'm George Lima</h1>
 <h3 align="center">Web Development student && Localization Engineer Intern</h3>
 
-<h4 align="center">I’m currently in college <b>learning Full-stack web development</b></h4>
 
 # 💻 Tech Stack:
 ## Front-End:
