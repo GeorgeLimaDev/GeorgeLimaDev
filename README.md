@@ -36,5 +36,5 @@
 <a href="https://linkedin.com/in/georgelimabr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="georgelimabr" height="30" width="40" /></a>
 <a href="https://instagram.com/georgelimabr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="georgelimabr" height="30" width="40" /></a>
 
-## 
-<p><i>"May the odds be ever in your favour."</i> <br>- The Hunger Games' saga.</p>
+# Inspiring quote:
+<p><i>"The best way to predict the future is to create it."</i> – Alan Kay</p>
