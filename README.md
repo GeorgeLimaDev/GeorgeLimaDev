@@ -37,5 +37,8 @@
 <a href="https://linkedin.com/in/georgelimabr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="georgelimabr" height="30" width="40" /></a>
 <a href="https://instagram.com/georgelimabr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="georgelimabr" height="30" width="40" /></a>
 
-# 💭 Inspiring quote:
-<p><i>"The best way to predict the future is to create it."</i> – Alan Kay</p>
+# 💭 Favorite quote:
+<p><i>"When I became the sun
+I shone life into the man's hearts."
+  
+</i>🎵: Toxicity - System of a Down (2001)</p>
