@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm George Lima</h1>
-<h3 align="center">Web Development student && Localization Engineer Intern</h3>
+<h3 align="center">Web Development student && Localization Engineer</h3>
 
 
 # 💻 Tech Stack:
