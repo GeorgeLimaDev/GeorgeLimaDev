@@ -39,6 +39,6 @@
 
 # 💭 Favorite quote:
 <p><i>"When I became the sun
-I shone life into the man's hearts."
+I shone life into the men's hearts."
   
 </i>🎵: Toxicity - System of a Down (2001)</p>
