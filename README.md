@@ -2,7 +2,7 @@
 
 ### Localization Engineer | Software Developer | Language Specialist
 
-I am a **Localization Engineer** with a unique multidisciplinary background that blends International Negotiations, Linguistics, and Systems Development. Currently, I work at **VTEX**, where I leverage technology to bridge language gaps and optimize global product experiences.
+I am a **Localization Engineer** with a unique multidisciplinary background that blends International Negotiations, Linguistics, and Systems Development. Currently, I work at **VTEX**, where I leverage technology to bridge language gaps and optimize global product experiences. I specialize in the intersection of software development and globalization, ensuring that products are not just translated, but truly adapted to different cultural and technical contexts.
 
 ## 🚀 About Me
 
@@ -11,17 +11,15 @@ I am a **Localization Engineer** with a unique multidisciplinary background that
 - 🎓 **Previous Education:** Bachelor's in **Foreign Languages Applied to International Negotiations** at UFPB.
 - 🌍 **Languages:** 🇧🇷 Portuguese (Native), 🇬🇧 English (Fluent), 🇫🇷 French (Intermediate) and 🇪🇸 Spanish (Intermediate).
 
-I specialize in the intersection of software development and globalization, ensuring that products are not just translated, but truly adapted to different cultural and technical contexts.
-
 ## 💻 Technical Skills
 
 ### **Core Stack**
-- **Primary Language:** JavaScript and its environment.
-- **Frontend:** React, Next.js, HTML5, CSS3, Tailwind, Bootstrap.
-- **Backend/Scripting:** Java (SpringBoot), Python, Bash.
+- **Primary Language:** JavaScript environment.
+- **Frontend:** React, Angular, Next.js, HTML5, CSS3, Tailwind, Bootstrap.
+- **Backend/Scripting:** Java (SpringBoot), Kotlin, Python, Ruby, Bash.
 - **Database:** SQL (PostgreSQL, MySQL), NoSQL (MongoDB).
 
-### **Specialized Knowledge**
+#### **Specialized Knowledge**
 - **Software Engineering:** Agile Development (Scrum/Kanban), Design Patterns, Software Architecture, System Analysis & Design.
 - **Infrastructure:** Computer Networks, Operating Systems, Data Security, Distributed Programming.
 - **Localization Tech:** Internationalization (i18n) workflows, script automation for translation management, and UI/UX for global markets (HCI).
