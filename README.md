@@ -29,4 +29,4 @@ I am a **Localization Engineer** with a unique multidisciplinary background that
 ## 📫 Connect with me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/georgelimabr/?locale=en_US)
-- 🌐 [Portfolio/Personal Website](https://www.linkedin.com/in/georgelimabr/?locale=en_US): still cooking...
+- 🌐 [Personal Website]([https://www.linkedin.com/in/georgelimabr/?locale=en_US](https://professional-page-theta.vercel.app/))
