@@ -2,29 +2,29 @@
 
 ### Localization Engineer | Software Developer | Language Specialist
 
-I am a **Localization Engineer** with a unique multidisciplinary background that blends International Negotiations, Linguistics, and Systems Development. Currently, I work at **VTEX**, where I leverage technology to bridge language gaps and optimize global product experiences. I specialize in the intersection of software development and globalization, ensuring that products are not just translated, but truly adapted to different cultural and technical contexts.
+I am a **Localization Engineer** currently working at [VTEX](vtex.com). I act in the intersection of software development and linguistic solutions, ensuring that products are not just translated, but truly adapted to different cultural and technical contexts.
 
 ## 🚀 About Me
 
 - 🛠️ **Current Role:** Localization Engineer I at [VTEX](vtex.com) (~ 3 years).
-- 🎓 **Latest Education:** Technologist in **Systems for the Internet** at IFPB.
-- 🎓 **Previous Education:** Bachelor's in **Foreign Languages Applied to International Negotiations** at UFPB.
+- 🎓 **Latest Education:** Technologist in **Systems for the Internet** at [IFPB](https://www.ifpb.edu.br/).
+- 🎓 **Previous Education:** Bachelor's in **Foreign Languages Applied to International Negotiations** at [UFPB](https://www.ufpb.br/).
 - 🌍 **Languages:** 🇧🇷 Portuguese (Native), 🇬🇧 English (Fluent), 🇫🇷 French (Intermediate) and 🇪🇸 Spanish (Intermediate).
 
 ## 💻 Technical Skills
 
 ### **Core Stack**
-- **Primary Language:** JavaScript environment.
-- **Frontend:** React, Angular, Next.js, HTML5, CSS3, Tailwind, Bootstrap.
-- **Backend/Scripting:** Java (SpringBoot), Kotlin, Python, Ruby, Bash.
+- **Frontend:** React, Next.js, Angular.
+- **Backend:** Java (SpringBoot), Kotlin, Python, Ruby.
 - **Database:** SQL (PostgreSQL, MySQL), NoSQL (MongoDB).
 
 #### **Specialized Knowledge**
 - **Software Engineering:** Agile Development (Scrum/Kanban), Design Patterns, Software Architecture, System Analysis & Design.
+- **Artificial Intelligence:** Develop VTEX AI Workspace Agents using Python and Amazon's AWS-based solutions.
 - **Infrastructure:** Computer Networks, Operating Systems, Data Security, Distributed Programming.
-- **Localization Tech:** Internationalization (i18n) workflows, script automation for translation management, and UI/UX for global markets (HCI).
-- **Programming:** Object-Oriented Programming (OOP), Data Structures, Full-Stack Web Programming.
-- **Strategy & Management:** Project Management, Business Intelligence, Entrepreneurship, and E-commerce.
+- **I18n/L10n:** Internationalization and Localization workflows, script automations for translation management, and UI/UX for global markets.
+- **Programming:** Object-Oriented Programming (OOP), Data Structures, Full-Stack Web development.
+- **Strategy & Management:** OKRs Management, Business Intelligence, Entrepreneurship, and E-commerce.
 
 ## 📫 Connect with me
 
